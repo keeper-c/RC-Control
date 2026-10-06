@@ -1,0 +1,35 @@
+# ===== Keil MDK Build Artifacts =====
+*.o
+*.d
+*.crf
+*.lst
+*.htm
+*.map
+*.lnp
+*.dep
+*.build_log.htm
+*.Bak
+*.iex
+*.axf
+*.hex
+*.bin
+
+# ===== Keil IDE User-Specific =====
+*.uvguix.*
+*.scvd
+DebugConfig/
+
+# ===== VS Code User Settings =====
+.vscode/
+
+# ===== Archives & Temp =====
+*.7z
+*.zip
+*.rar
+*.tmp
+__pycache__/
+*.pyc
+
+# ===== OS Files =====
+Thumbs.db
+.DS_Store
